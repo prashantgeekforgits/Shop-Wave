@@ -24,7 +24,7 @@ ShopWave is a full-stack e-commerce web application developed using PHP, MySQL, 
 1. Clone the repository.
 2. Copy the project folder to XAMPP's htdocs directory.
 3. Start Apache and MySQL.
-4. Import `mysqlfile.sql` into MySQL.
+4. Import `shopwave.sql` into MySQL.
 5. Open `http://localhost/Myshop`.
 
 ## Author
